@@ -7,3 +7,8 @@ public class Hangar {
         System.out.println(boat1.doStuff());
     }
 }
+
+
+// OUTPUT
+// I am Seat and I go  zoom zoom zoom!
+// I am White Ocean and I go glug glug!
